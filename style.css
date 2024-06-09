@@ -41,21 +41,21 @@ body {
 
 .box.first:hover {
     border-radius: 5px;
-    transform:scale(2) translate(80%, 80%);
+    transform:scale(1.5) translate(80%, 70%);
     z-index: 2;
 }
 .box.second:hover {
     border-radius: 5px;
-    transform:scale(2) translate(0%, 80%);
+    transform:scale(1.5) translate(0%, 70%);
 }
 .box.third:hover {
     border-radius: 5px;
-    transform:scale(2) translate(0%, 80%);
+    transform:scale(1.5) translate(0%, 70%);
     z-index: 2;
 }
 .box.fourth:hover {
     border-radius: 5px;
-    transform:scale(2) translate(-80%, 80%);
+    transform:scale(1.5) translate(-80%, 70%);
     z-index: 2;
 }
 .box:hover > img.blur {
