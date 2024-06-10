@@ -1,5 +1,6 @@
 body {
     background-image: url("wolpaper\ ni\ iljan.jpg");
+    font-family: 'Spectral', serif;
 }
 
 .container {
@@ -34,8 +35,8 @@ body {
 .box > .content {
     position: absolute;
     inset: 0;
-    font-size: 35px;
-    padding: 25px;
+    font-size: 25px;
+    padding: 15px;
     background: rgba(255, 255, 255, .4);
     display: flex;
     justify-content: flex-start;
@@ -98,7 +99,7 @@ body {
     .box > .content {
         position: absolute;
         inset: 0;
-        font-size: 15px;
+        font-size: 12.5px;
         padding: 15px;
         background: rgba(255, 255, 255, .4);
         display: flex;
