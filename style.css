@@ -98,7 +98,7 @@ body {
     .box > .content {
         position: absolute;
         inset: 0;
-        font-size: 16px;
+        font-size: 15px;
         padding: 15px;
         background: rgba(255, 255, 255, .4);
         display: flex;
